@@ -26,10 +26,8 @@ Apart from coding, I also maintain a portfolio website at [avirmani.com](https:/
 ## 📝 Statistics:
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--> Links <-->
-[1] : https://www.linkedin.com/in/amanvirmani26/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
