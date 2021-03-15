@@ -16,6 +16,8 @@ Apart from coding, I also maintain a portfolio website at [avirmani.com](https:/
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+## 📝 Statistics:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
