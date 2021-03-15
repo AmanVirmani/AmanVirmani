@@ -1,7 +1,27 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+<!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Aman Virmani and I'm a Robotics/Computer Vision Engineer. I'm a graduate student in Robotics from the University of Maryland, College Park. I am currently working as a Graduate Research Assistant in the AIM-HI project at UMD which involves applying machine learning algorithms to Mass Spectrometry Image data.
+
+## <!--&#x270d;--> 📫 How to reach me: ...
+
+Apart from coding, I also maintain a portfolio website at [avirmani.com](https://avirmani.com/). You can also reach me at LinkedIn: [amanvirmani26](https://www.linkedin.com/in/amanvirmani26/)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 
 <!--
 **AmanVirmani/AmanVirmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
