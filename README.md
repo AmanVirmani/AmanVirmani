@@ -35,7 +35,7 @@ Apart from coding, I also maintain a portfolio website at
   <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark" />
 </a> 
 <a href="https://avirmani.com">
-  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook&theme=vue-dark" />
+  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook,matlab&theme=vue-dark" />
 </a> 
 
 
