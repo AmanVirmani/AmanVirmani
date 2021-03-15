@@ -1,15 +1,19 @@
-### Hi there <img src="https://raw.githubusercontent.com/AmanVirmani/AmanVirmani/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/AmanVirmani/AmanVirmani/master/assets/wave.gif" width="30px">
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
 
 
 My name is Aman Virmani and I'm a Robotics/Computer Vision Engineer. I'm a graduate student in Robotics from the University of Maryland, College Park. I am currently working as a Graduate Research Assistant in the AIM-HI project at UMD which involves applying machine learning algorithms to Mass Spectrometry Image data.
 
-## 📫 How to reach me: ...
+## 📫 My Websites: ...
 
-Apart from coding, I also maintain a portfolio website at ![avirmani](https://avirmani.com). You can also reach me at LinkedIn:
-
-![amanvirmani26](https://linkedin.com/in/amanvirmani26)
-
+Apart from coding, I also maintain a portfolio website at 
+<a href="https://avirmani.com">
+  <img alt="AmanVirmani" src="https://img.shields.io/badge/-avirmani-informational?style=social&logo=google-chrome&logoColor=2bbc8a&color=2bbc8a" />
+</a> 
+. You can also find me at LinkedIn:
+<a href="https://linkedin.com/in/amanvirmani26">
+  <img alt="AmanVirmani" src="https://img.shields.io/badge/-amanvirmani26-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a" />
+</a> 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,9 +31,12 @@ Apart from coding, I also maintain a portfolio website at ![avirmani](https://av
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 
 ## 📝 Statistics:
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://avirmani.com">
+  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark" />
+</a> 
+<a href="https://avirmani.com">
+  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook&theme=vue-dark" />
+</a> 
 
 
 <!-- Resources -->
