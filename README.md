@@ -6,7 +6,7 @@ My name is Aman Virmani and I'm a Robotics/Computer Vision Engineer. I'm a gradu
 
 ## 📫 How to reach me: ...
 
-Apart from coding, I also maintain a portfolio website at [avirmani.com](https://avirmani.com/). You can also reach me at LinkedIn: [[amanvirmani26](https://www.linkedin.com/in/amanvirmani26/)](https://img.shields.io/badge/-amanvirmani26-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)
+Apart from coding, I also maintain a portfolio website at [avirmani.com](https://avirmani.com/). You can also reach me at LinkedIn: [[amanvirmani26](https://www.linkedin.com/in/amanvirmani26/)] ![](https://img.shields.io/badge/-amanvirmani26-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
