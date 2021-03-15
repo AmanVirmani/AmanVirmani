@@ -12,12 +12,12 @@ Apart from coding, I also maintain a portfolio website at [avirmani.com](https:/
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=codesandbox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Gazebo-informational?style=flat&logo=gazebo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Gazebo-informational?style=flat&logo=ros&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
@@ -25,6 +25,8 @@ Apart from coding, I also maintain a portfolio website at [avirmani.com](https:/
 
 ## 📝 Statistics:
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVirmani&hide=issues&count_private=True&include_all_commits=True&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVirmani&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--> Links <-->
 [1] : https://www.linkedin.com/in/amanvirmani26/
