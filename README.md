@@ -2,18 +2,19 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
 
 
-My name is Aman Virmani and I'm a Robotics/Computer Vision Engineer. I'm a graduate student in Robotics from the University of Maryland, College Park. I am currently working as a Graduate Research Assistant in the AIM-HI project at UMD which involves applying machine learning algorithms to Mass Spectrometry Image data.
+Aman Virmani is a dynamic and innovative software engineer specializing in computer vision and machine learning for robotics applications, with a track record of delivering impactful solutions and leading successful projects over the last 5 years.
 
 ## 📫 My Websites: ...
-
+<!---
 Apart from coding, I also maintain a portfolio website at 
 <a href="https://avirmani.com">
   <img alt="AmanVirmani" src="https://img.shields.io/badge/-avirmani-informational?style=social&logo=google-chrome&logoColor=2bbc8a&color=2bbc8a" />
-</a> 
-. You can also find me at LinkedIn:
+</a> . --->
+You can also find me at LinkedIn:
 <a href="https://linkedin.com/in/amanvirmani26">
   <img alt="AmanVirmani" src="https://img.shields.io/badge/-amanvirmani26-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a" />
-</a> 
+</a>. 
+My portfolio website is currently under maintenance.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
